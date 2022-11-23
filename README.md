@@ -1,2 +1,3 @@
 # gkt.cs.luc.edu
-Redirect repo
+
+This repo is to redirect my old URL to my new domain, gkt.sh.
